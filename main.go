@@ -52,5 +52,5 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println("RSS datas successfully saved")
+	fmt.Println("RSS feeds successfully saved")
 }
